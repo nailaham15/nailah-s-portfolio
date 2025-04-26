@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm install && git lfs install && git lfs pull",
+  "framework": "nextjs"
+} 
